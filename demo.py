@@ -2,6 +2,11 @@ print('demo git');
 print('day la dong code cua Khang');
 print('su dung cong cu git cua visual code');
 
-print('su dung totoisegit');
+print('su dung tortoise git')
 
-print('chung ta dang su dung nhanh feature-khang');
+a = [1,2,3,4]
+for i in range(a):
+    print (i)
+    
+
+
